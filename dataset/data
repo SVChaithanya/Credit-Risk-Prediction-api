@@ -1,1 +1,6 @@
-
+         loan_amnt  annual_inc    dti  fico_mean  int_rate        term grade             purpose  target
+0           3600.0     55000.0   5.91      677.0     13.99   36 months     A  debt_consolidation       0
+1          24700.0     65000.0  16.06      717.0     11.99   36 months     C      small_business       0
+2          20000.0     63000.0  10.78      697.0     10.78   60 months     B    home_improvement       0
+3          35000.0    110000.0  17.06      787.0     14.85   60 months     C  debt_consolidation       0
+4          10400.0    104433.0  25.37      697.0     22.45   60 months     F      major_purchase       1
